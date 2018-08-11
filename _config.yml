@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : adibzaman
 facebook:
   username               :
   app_id                 :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "adibzaman"
   google_plus      :
   keybase          :
   instagram        :
