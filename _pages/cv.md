@@ -1,6 +1,6 @@
 ---
 layout: archive
-%title: ""
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,14 +17,6 @@ Education
 
 Work experience
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 * 2007--2009: Software Engineer
   * AfriGIS Bangladesh, Dhaka, Bangladesh.
 * 2009: Lecturer
