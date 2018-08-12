@@ -25,5 +25,6 @@ Work experience
 * 2015--2017: Assistant Research Scientist, Purdue University, West Lafayette, IN, USA
 * 2018--present: Research Scientist, Purdue University, West Lafayette, IN, USA
   
-[NIH Bio-sketch](http://adibzaman.github.io/files/NIH_Bio_Adib08-09-18.pdf)
+NIH Bio-sketch
 ------
+* [Click here](http://adibzaman.github.io/files/NIH_Bio_Adib08-09-18.pdf)
