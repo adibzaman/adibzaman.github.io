@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Introduction
 ------
 I want to liberate the power of data that are trapped in siloed systems and disciplines to improve human health. I am a computational 
@@ -17,7 +16,7 @@ contribute in human well being, live life happily and abundantly. I want to use 
 deep clinical expertise for the future of medicine. 
 
 Experience
-======
+------
 I have an undergraduate degree in Computer Science and Engineering. After my undergraduate, I worked for a while as a software engineer, 
 at a software company and also at National University of Singapore. Unsure about the direct impact of a software engineer in human well 
 being, I started my PhD in Computational Science. It is at this time, I was introduced to clinical questions that require sophisticated 
@@ -28,7 +27,7 @@ in many projects that uses EHR, physiological or sensor data for clinical resear
 Research Scientist at the Regenstrief Center for Healthcare Engineering at Purdue. 
 
 Achievements
-======
+------
 Here at Regenstrief, I have built the research infrastructure for data analysis from the ground up, established partnership with the 
 Laboratory for Computational Physiology led by Roger Mark, and industry partnership for state of the art distributed database technology
 with Paradigm4, founded by Turing Award recipient MIT Computer Scientist Mike Stonebroker. I have created a new line of research at RCHE
