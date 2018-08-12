@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Mohammad Adibuzzaman"
 description              : &description "personal description"
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Adib"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Scientist @RCHE"
+  location         : "West Lafayette, Indana"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=me_HJ54AAAAJ&hl=en"
   email            :
@@ -99,10 +99,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7984-071X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "adibzaman"
