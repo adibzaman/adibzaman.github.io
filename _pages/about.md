@@ -34,8 +34,8 @@ Laboratory for Computational Physiology led by Roger Mark, and industry partners
 with Paradigm4, founded by Turing Award recipient MIT Computer Scientist Mike Stonebroker. I have created a new line of research at RCHE
 for explainable Artificial Intelligence (AI) in healthcare, and actively collaborating with Elias Bareinboim, professor of Computer 
 Science. The goal is to introduce new methods of explainable AI developed by Turing Award recipient Judea Pearl, in clinical research.
-Built on these foundations, I have secured a grant of &dollar 100,000 to develop a cloud computing environment with HIPAA compliant servers
-for EHR and physiological data of thousands of patients from Beth Israel Deaconess Hospital. I have also secured a $300,000 data science
+Built on these foundations, I have secured a grant of <p> &dollar <\p> 100,000 to develop a cloud computing environment with HIPAA compliant 
+servers for EHR and physiological data of thousands of patients from Beth Israel Deaconess Hospital. I have also secured a $300,000 data science
 initiative grant from Purdue  for explainable AI for clinical understanding and translation in healthcare.  At the same time, I have 
 published many of these works in top journals and conferences, and many more are in the pipeline. I have also successfully submitted 
 an NSF grant for reproducibility of data driven research with a budget of $2M, with the application currently under review.
