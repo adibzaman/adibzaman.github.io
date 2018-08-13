@@ -1,0 +1,11 @@
+---
+title: "Findings of e-ESAS: a mobile based symptom monitoring system for breast cancer patients in rural Bangladesh"
+collection: publications
+permalink: /publication/2012-05-05-Findings-ESAS
+excerpt: ''
+date: 2012-05-05
+venue: 'Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (Best Paper Nomination)'
+paperurl: 'https://dl.acm.org/citation.cfm?id=2208532'
+
+---
+Breast cancer (BC) patients need traditional treatment as well as long term monitoring through an adaptive feedback-oriented treatment mechanism. Here, we present the findings of our 31-week long field study and deployment of e-ESAS - the first mobile-based remote symptom monitoring system (RSMS) developed for rural BC patients where patients are the prime users rather than just the source of data collection at some point of time. We have also shown how 'motivation' and 'automation' have been integrated in e-ESAS and creating a unique motivation-persuasion-motivation cycle where the motivated patients become proactive change agents by persuading others. Though in its early deployment stages (2 months), e-ESAS demonstrates the potential to positively impact the cancer care by (1) helping the doctors with graphical charts of long symptom history (automation), (2) facilitating timely interventions through alert generation (automation) and (3) improving three way communications (doctor-patient-attendant) for a better decision making process (motivation) and thereby improving the quality of life of BC patients.
