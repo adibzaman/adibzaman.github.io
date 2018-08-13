@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-05-27-Regenerating-Evidence
 excerpt: ''
 date: 2018-05-27
-venue: 'American Thoracic Society (ATS) Conference, 2018'
+venue: 'American Thoracic Society (ATS) Conference'
 paperurl: 'https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A4290'
 
 ---
