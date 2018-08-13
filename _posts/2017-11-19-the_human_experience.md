@@ -13,4 +13,3 @@ This article is about the key areas I want to work on, eventually.
 
 [Click here](https://citizenoflonelyplanet.blogspot.com/2017/11/the-human-experience.html)
 
----
