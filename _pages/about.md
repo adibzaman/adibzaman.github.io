@@ -10,8 +10,8 @@ redirect_from:
 Introduction
 ------
 I want to liberate the power of data that are trapped in siloed systems and disciplines to improve human health. I am a computational 
-scientist by training with extensive experience in model, method and system development for large clinical data analysis and research i
-nfrastructure development in high performance computing system. My motivation to work in Mayo clinic arises from a deep desire to 
+scientist by training with extensive experience in model, method and system development for large clinical data analysis and research 
+infrastructure development in high performance computing system. My motivation to work in healthcare arises from a deep desire to 
 contribute in human well being, live life happily and abundantly. I want to use technology, big data and new methods to complement the 
 deep clinical expertise for the future of medicine. 
 
