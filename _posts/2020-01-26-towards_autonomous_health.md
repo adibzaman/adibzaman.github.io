@@ -1,6 +1,6 @@
 ---
 title: 'Towards Autonomous Health'
-date: 2017-11-19
+date: 2020-01-26
 permalink: /posts/2020/01/Towards_Autnomous_Health/
 tags:
   - future
