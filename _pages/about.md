@@ -17,14 +17,14 @@ contribute in the human well being, live life happily and abundantly. I want to 
 complement the clinical expertise for the future of medicine. 
 
 ------
-I am a Research Scientist at the Regenstrief Center for Healthcare Engineering (RCHE) located at Purdue University, Indiana. I joined RCHE as an Assitant
-Research Scientist after my Ph.D. in 2015. I did my Ph.D. in Computational Sciences from Marquette University, Milwaukee, Wisconsin under the Supervision of Dr. Stephen Merill and 
-Dr. Sheikh Iqbal Ahamed. My Ph.D. research focused on mathemtical model development using eigenvalue based methods such as eigenface 
+I am a Research Scientist at the Regenstrief Center for Healthcare Engineering (RCHE) located at Purdue University, Indiana. I joined RCHE as an Assistant
+Research Scientist after my Ph.D. in 2015. I did my Ph.D. in Computational Sciences from Marquette University, Milwaukee, Wisconsin under the supervision of Dr. Stephen Merrill and 
+Dr. Sheikh Iqbal Ahamed. My Ph.D. research focused on mathematical model development using eigenvalue based methods such as eigenface 
 for facial image classification, mixing rate or second largest eigenvalue based algorithm for hemorrhage detection from blood pressure, among others. 
-During my Ph.D., I worked at the US Food and Drug Administration (US FDA) under the Supervision of Dr. David Strauss on applications of the 
-mathematical models with clinical data and high performance computing sytem. Before my Ph.D., I worked as a Junior Research Fellow at the Human Computer
-Interaction Lab with Professor Shendong Zhao. I also worked as a Software Engineer at the Structured Data Systems Ltd. (SDSL). I have an undergraduate
-degress in Computer Science and Engineering. 
+During my Ph.D., I worked at the US Food and Drug Administration (US FDA) under the supervision of Dr. David Strauss on applications of the 
+mathematical models with clinical data and high performance computing system. Before my Ph.D., I worked as a Junior Research Fellow at the Human Computer
+Interaction Lab with Professor Shendong Zhao at the National University of Singapore (NUS). I also worked as a Software Engineer at the Structured Data Systems Ltd. (SDSL). I have an undergraduate
+degree in Computer Science and Engineering (CSE) from Bangladesh University of Engineering and Technology (BUET). 
 
 
 ------
