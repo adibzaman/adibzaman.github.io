@@ -1,5 +1,5 @@
 ---
-title: "An open-access high performance computing system for developing research applications (apps)"
+title: "An Open-access High Performance Computing System for Developing Research Applications (Apps)"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-08-17-AMIA-Webinar
