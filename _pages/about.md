@@ -1,4 +1,5 @@
 ---
+
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -35,6 +36,6 @@ Science at Columbia University. The goal is to introduce new methods of explaina
 research. I have secured a grant of 100,000 dollar to develop a cloud computing environment with HIPAA compliant 
 servers for EHR and physiological data for thousands of patients from Beth Israel Deaconess Hospital as well as a 69M patients cohort. I have also 
 secured a 300,000 dollar data science initiative grant from Purdue for explainable AI for clinical understanding and translation in healthcare.  At the same time, I have 
-published many of these works in top journals and conferences. I have also successfully submitted an multiple NSF and DOD grants.
+published many of these works in top journals and conferences. I have also successfully submitted multiple NSF and DOD grant proposals.
 
 
