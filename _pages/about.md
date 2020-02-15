@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ------
-I want to liberate the power of data that are trapped in siloed systems and disciplines to improve human health. I am a computational 
+I want to unchain the power of data that are trapped in siloed systems and disciplines to improve human health. I am a computational 
 scientist by training with extensive experience in model, method and system development for large clinical data analysis and research 
 infrastructure development with high performance computing system. My motivation to work in healthcare arises from a deep desire to 
 contribute in the human well being, live life happily and abundantly. I want to use technology, extremely large data sources, and new methods to 
