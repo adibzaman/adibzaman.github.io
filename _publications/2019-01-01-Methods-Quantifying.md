@@ -1,0 +1,15 @@
+---
+title: "Methods for Quantifying Efficacy-Effectiveness Gap of Randomized Controlled Trials: Examples in ARDS"
+collection: publications
+permalink: /publication/2019-01-01-Methods-Quantifying
+excerpt: ''
+date: 2019-01-01
+venue: 'Critical Care Medicine'
+paperurl: 'https://ovidsp.dc2.ovid.com/sp-4.04.0a/ovidweb.cgi?&S=BOJLFPPIJMEBHLEBJPBKMEBHGHMIAA00&Link+Set=S.sh.22%7c2%7csl_10&Counter5=SS_view_found_article%7c00003246-201901001-00288%7covft%7covftdb%7covftt&Counter5Data=00003246-201901001-00288%7covft%7covftdb%7covftt'
+
+---
+
+Learning Objectives: Randomized Clinical Trials (RCTs) test the efficacy of treatments under ideal circumstances. Most RCTs use strict exclusion criteria and in many trials 90% of potential participants are excluded because of comorbid health conditions, age requirements, or estimated low probability of adherence. In clinical practice, patients rarely, if ever are denied treatment for these reasons. Several analyses have confirmed that effect sizes observed in RCTs (efficacy) attenuate when treatments are disseminated into practice (effectiveness). The difference between effect sizes from RCTs and those likely to be observed in clinical practice is known as the efficacy-effectiveness gap. We suggest a method to quantify this gap.
+Methods: We used data from the Medical Information Mart for Intensive Care (MIMIC III) database, which consists of EHRs for 46,520 patients. The data were used to create a structural causal in ARDS treatment. We then applied the inclusion/exclusion criteria from two landmark trials in ARDS, ALVEOLI and ACURASYS (berlin score <300 for ALVEOLI <150 for ACURASYS within 48 hours of admission). Using these observational data and coding for the treatment, we attempted to replicate the trial results. This establishes the method to compute efficacy.
+Results: Computing efficacy by regenerating the ALVEIOLI trial with MIMIC III database included 1411 patients with the inclusion criteria (Berlin score <300) and 752 patients for ACURASYS trial (inclusion criteria Berlin score 150). Our observational data for ALVEOLI trial, showed similar survival rates in our study compared to the trial in treatment arm, 0.73 vs 0.75 respectively and control arm 0.65 vs 0.73. Survival rates of our observational data were very similar to those in the treatment arm of the ACURASYS trial (0.66 vs 0.68) and in control arm (0.57 vs 0.58), p <0.01 for each result.
+Conclusions: This exercise establishes the validity of AI for the replication of clinical trial results when observational cases are matched to RCT inclusion and exclusion criteria. A structure causal model can be reliably used to derive outcome for treatment and interventions group analogous to an RCT. The classification rule can then be applied to all members in the observational data base in order to estimate treatment effectiveness when inclusion/exclusion criteria are relaxed. The difference between treatment effect estimates with or without the use of inclusion/exclusion rules can systematically quantify the efficacy-effectiveness gap.

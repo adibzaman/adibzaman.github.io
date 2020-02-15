@@ -85,7 +85,7 @@ author:
   location         : "West Lafayette, Indiana"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=me_HJ54AAAAJ&hl=en"
-  email            :
+  email            :madibuzz at purdue dot edu
   uri              :
   bitbucket        :
   codepen          :
@@ -107,12 +107,11 @@ author:
   tumblr           :
   twitter          : "adibzaman"
   vine             :
-  weibo            :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mohammad+adibuzzaman"
   xing             :
   youtube          :
   wikipedia        :
-
-
+  
 # Reading Files
 include:
   - .htaccess
