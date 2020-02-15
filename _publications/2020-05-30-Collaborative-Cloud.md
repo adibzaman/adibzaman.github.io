@@ -1,9 +1,9 @@
 ---
 title: "Collaborative Cloud Computing Framework for Health Data with Open Source Technologies"
 collection: publications
-permalink: /publication/20120-05-30-Collaborative-Cloud
+permalink: /publication/2020-05-30-Collaborative-Cloud
 excerpt: ''
-date: 2020-50-30
+date: 2020-05-30
 venue: 'In preparation (Scientific Computing)'
 
 ---
