@@ -16,6 +16,10 @@ infrastructure development with high performance computing system. My motivation
 contribute in the human well being, live life happily and abundantly. I want to use technology, extremely large data sources, and new methods to 
 complement the clinical expertise for the future of medicine. 
 
+<img src="\images\data_infrastructure_ai.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ------
 I am a Research Scientist at the Regenstrief Center for Healthcare Engineering (RCHE) located at Purdue University, Indiana. I joined RCHE as an Assistant
 Research Scientist after my Ph.D. in 2015. I did my Ph.D. in Computational Sciences from Marquette University, Milwaukee, Wisconsin under the supervision of Dr. Stephen Merrill and 
@@ -39,7 +43,3 @@ secured a 300,000 dollar data science initiative grant from Purdue for explainab
 published many of these works in top journals and conferences. I have also successfully submitted multiple NSF and DOD grant proposals.
 
 
-------
-<img src="\images\data_infrastructure_ai.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
