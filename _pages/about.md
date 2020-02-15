@@ -39,3 +39,7 @@ secured a 300,000 dollar data science initiative grant from Purdue for explainab
 published many of these works in top journals and conferences. I have also successfully submitted multiple NSF and DOD grant proposals.
 
 
+------
+<img src="\images\az.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
