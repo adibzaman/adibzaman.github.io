@@ -40,6 +40,6 @@ published many of these works in top journals and conferences. I have also succe
 
 
 ------
-<img src="\images\az.png"
+<img src="\images\data_infrastructure_ai.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
