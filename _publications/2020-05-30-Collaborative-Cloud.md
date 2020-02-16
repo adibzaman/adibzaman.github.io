@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-30-Collaborative-Cloud
 excerpt: ''
 date: 2020-05-30
-venue: 'In preparation (Scientific Computing)'
+venue: 'In preparation'
 
 ---
 
