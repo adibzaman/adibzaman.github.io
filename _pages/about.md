@@ -27,7 +27,8 @@ Interaction Lab with Professor Shendong Zhao at the National University of Singa
 ------
 At Regenstrief, I have built the research infrastructure for data analysis from the ground up, established partnership with the Laboratory for Computational Physiology at the MIT led by Roger Mark, and industry partnership for state of the art distributed database technology
 with Paradigm4, founded by Turing Award recipient MIT Computer Scientist Mike Stonebroker. I am leading a new line of research at RCHE for explainable Artificial Intelligence (AI) in health sciences, and actively collaborating with Elias Bareinboim, Professor of Computer 
-Science at Columbia University. The goal is to introduce new methods of explainable AI in clinical research. I secured a grant of $100k dollar to develop a cloud computing environment with HIPAA compliant servers for EHR and physiological data for thousands of patients from Beth Israel Deaconess Hospital as well as a 69M patients cohort. I also received a a $300k data science initiative grant from Purdue for explainable AI for clinical understanding and translation in healthcare.  At the same time, I have 
-published many of these works in top journals and conferences. I have also successfully submitted multiple NSF and DOD grant proposals.
+Science at Columbia University. The goal is to introduce new methods of explainable AI in clinical research. I secured a grant of \$100k dollar to develop a cloud computing environment with HIPAA compliant servers for EHR and 
+physiological data for thousands of patients from Beth Israel Deaconess Hospital as well as a 69M patients cohort (Cerner Health Facts). I also received a a \$300k data science initiative grant from Purdue for explainable AI for clinical understanding 
+and translation in healthcare.  At the same time, I have published many of these works in top journals and conferences. I have also successfully submitted multiple NSF and DOD grant proposals.
 
 
