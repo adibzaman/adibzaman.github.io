@@ -3,7 +3,7 @@ title: "LATICE: Framework for Longitudinal Analysis of Time-Course Data from Pat
 collection: talks
 type: "Talk"
 permalink: /talks/2019-09-10-Convergence
-venue: "Discovery Park Convergence Conference 2019, Discovery Park Purdue University, West Lafayette, Indiana"
+venue: "Discovery Park Convergence Conference 2019, Discovery Park Purdue University"
 date: 2019-09-10
 location: " West Lafayette, Indiana"
 

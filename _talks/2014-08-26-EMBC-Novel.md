@@ -3,7 +3,7 @@ title: "A Novel Index to Monitor Physiological Systems from the Arterial Blood P
 collection: talks
 type: "Talk"
 permalink: /talks/2014-08-26-EMBC-Novel
-venue: "EMBC 2014 – Engineering in Medicine and Biolog, Chicago, Illinois"
+venue: "EMBC 2014 – Engineering in Medicine and Biology"
 date: 2014-08-26
 location: " Chicago, Illinois"
 
