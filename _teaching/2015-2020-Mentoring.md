@@ -15,6 +15,7 @@ location: " West Lafayette, Indaina"
 	* Riddhiman Adib (Ph.D. Candidate (Computer Science, Marquette University), Advisor Sheikh Iqbal Ahamed)
 	* Brett Meyers (Ph.D. Candidate (Mechanical Engineering), Advisor Pavlos Vlachos)
 	* Amber Johnson (Ph.D. (Computer Science), Advisor Bharat Bhargava)
+	* Yao Chen (Ph.D. Candidate (Statistics), Advisor Xiao Wang)
 * Undergraduate student
 	* Adam Patrick Goodman (ECE, Discovery Park Undergraduate Research Internship Program (DURI))
 	* Brett Collar (BME, Discovery Park Undergraduate Research Internship Program (DURI))
