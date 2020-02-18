@@ -9,7 +9,7 @@ location: " West Lafayette, Indaina"
 ---
 * Gradute Student
 	* Yonghan Jung (Ph.D. Candidate (Computer Science), Advisor Elias Barienboim)
-	* Fatemen Rouzbeh (Ph.D. Candidate (Computer Science), Advisor Ananth Grama)
+	* Fatemeh Rouzbeh (Ph.D. Candidate (Computer Science), Advisor Ananth Grama)
 	* Mobasshir Arshed Naved (Ph.D. Candidate (Industrial Engineering), Advisor Paul Griffin)
 	* Chih-Hao Fang (Ph.D. Candidate (Computer Science), Advisor Ananth Grama)
 	* Riddhiman Adib (Ph.D. Candidate (Computer Science, Marquette University), Advisor Sheikh Iqbal Ahamed)
