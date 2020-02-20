@@ -24,7 +24,13 @@ Work experience
 * 2010: Junior Research Intern, National University of Singapore, Singapore
 * 2009: Lecturer, University of Asia Pacific, Dhaka, Bangladesh 
 * 2007--2009: Software Engineer, AfriGIS Bangladesh, Dhaka, Bangladesh.
-  
+
+
+In the News
+------
+* [RCHE Research Scientist Adibuzzaman Receives “Above and Beyond” Award](https://www.purdue.edu/research/dimensions/discovery-park-data-scientistst-helps-to-close-data-analysis-loop/)
+* [DISCOVERY PARK SCIENTIST HELPS TO CLOSE DATA ANALYSIS LOOP](https://www.purdue.edu/discoverypark//news/index.php?view=3046)
+
   
 Curriculum Vitae
 ------
