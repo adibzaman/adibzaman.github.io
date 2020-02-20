@@ -34,15 +34,15 @@ In the News
   
 Curriculum Vitae
 ------
-* [Click here](http://adibzaman.github.io/files/CV_Adib.pdf)  
+* [Click here](http://adibzaman.github.io/files/CV_Adib.pdf) {: .btn }
 
 NIH Bio-sketch
 ------
-* [Click here](http://adibzaman.github.io/files/NIH_Bio_Adib08-09-18.pdf)
 
+* [Click here](http://adibzaman.github.io/files/NIH_Bio_Adib08-09-18.pdf){: .btn }
 Research Satement 
 ------
-* [Click here](http://adibzaman.github.io/files/Research_Statement_5_Year_Plan.pdf)
+* [Click here](http://adibzaman.github.io/files/Research_Statement_5_Year_Plan.pdf){: .btn }
 
 
 
