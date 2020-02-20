@@ -38,8 +38,8 @@ Curriculum Vitae
 
 NIH Bio-sketch
 ------
-
 * [Click here](http://adibzaman.github.io/files/NIH_Bio_Adib08-09-18.pdf)
+
 Research Satement 
 ------
 * [Click here](http://adibzaman.github.io/files/Research_Statement_5_Year_Plan.pdf)
