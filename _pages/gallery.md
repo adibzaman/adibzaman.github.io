@@ -9,6 +9,7 @@ author_profile: true
      style="float: left; margin-right: 10px;"
 	 width="500" height="250" 
 	 title = "At AMIA Conference with MIT Distinguished Professor Roger Mark. "/>
+<br>	 
 
 At AMIA Conference with MIT Distinguished Professor Roger Mark. 
 
@@ -19,6 +20,7 @@ At AMIA Conference with MIT Distinguished Professor Roger Mark.
      style="float: left; margin-right: 10px;" 
 	 width="500" height="250" 
 	 title = "Above and Beyond Award from Executive Vice President of Researfh and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. "/>
+<br>	 
 Above and Beyond Award from Executive Vice President of Researfh and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. 
 
 ------
@@ -28,4 +30,5 @@ Above and Beyond Award from Executive Vice President of Researfh and Partnership
      style="float: left; margin-right: 10px;" 
 	 width="500" height="250"
 	 title = "At the Machine Learning in Healthcare Conference(MLHC) in San Francisco. "/>
+<br>	 
 At the Machine Learning in Healthcare Conference(MLHC) in San Francisco. 
