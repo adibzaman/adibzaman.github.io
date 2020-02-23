@@ -9,8 +9,8 @@ author_profile: true
      style="float: left; margin-right: 10px;"
 	 width="500" height="250" 
 	 title = "At AMIA Conference with MIT Distinguished Professor Roger Mark. "/>
-	 At AMIA Conference with MIT Distinguished Professor Roger Mark. 
 
+At AMIA Conference with MIT Distinguished Professor Roger Mark. 
 
 <img src="\images\EVPRP_Gaurimella.jpg"
      alt="Markdown Monster icon"
