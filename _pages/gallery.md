@@ -7,8 +7,9 @@ author_profile: true
 <img src="\images\AMIA_Roger.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;"
-	 width="150" height="50" />
-At AMIA Conference with MIT Distinguished Professor Roger Mark. 
+	 width="300" height="100" 
+	 title = "At AMIA Conference with MIT Distinguished Professor Roger Mark. "/>
+
 
 <img src="\images\EVPRP_Gaurimella.jpg"
      alt="Markdown Monster icon"
