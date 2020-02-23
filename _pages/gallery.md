@@ -11,7 +11,8 @@ author_profile: true
 	 title = "At AMIA Conference with MIT Distinguished Professor Roger Mark. "/>
 
 At AMIA Conference with MIT Distinguished Professor Roger Mark. 
----
+
+------
 
 <img src="\images\EVPRP_Gaurimella.jpg"
      alt="Markdown Monster icon"
@@ -19,7 +20,8 @@ At AMIA Conference with MIT Distinguished Professor Roger Mark.
 	 width="500" height="250" 
 	 title = "Above and Beyond Award from Executive Vice President of Researfh and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. "/>
 Above and Beyond Award from Executive Vice President of Researfh and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. 
----
+
+------
 
 <img src="\images\MLHC_San Francisco.jpg"
      alt="Markdown Monster icon"
