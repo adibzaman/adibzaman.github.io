@@ -22,7 +22,7 @@ At AMIA Conference with MIT Distinguished Professor Roger Mark.
 	 title = "Above and Beyond Award from Executive Vice President of Research and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. "/>
 <br clear="all">	
 
-Above and Beyond Award from Executive Vice President of Researfh and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. 
+Above and Beyond Award from Executive Vice President of Research and Partnership (EVPRP) at Purdue Univiersity, Suresh Garimella. 
 
 ------
 
