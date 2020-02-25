@@ -16,7 +16,7 @@ location: " West Lafayette, Indaina"
 	* Brett Meyers (Ph.D. Candidate (Mechanical Engineering), Advisor Pavlos Vlachos)
 	* Amber Johnson (Ph.D. (Computer Science), Advisor Bharat Bhargava)
 	* Yao Chen (Ph.D. Candidate (Statistics), Advisor Xiao Wang)
-* Undergraduate student
+* Undergraduate Student
 	* Adam Patrick Goodman (ECE, Discovery Park Undergraduate Research Internship Program (DURI))
 	* Brett Collar (BME, Discovery Park Undergraduate Research Internship Program (DURI))
 	* Navya Annam (CS, Independent Study)
