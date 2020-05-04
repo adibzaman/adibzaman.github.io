@@ -8,7 +8,8 @@ date: 2019-09-10
 location: " West Lafayette, Indiana"
 
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y14uueZcxBg?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 We aim to develop critical and enabling cyberinfrastructure for integrated analyses of longitudinal and time-series data from 
 the multitude of sensors in common commercial wearables, in conjunction with the corresponding patient pharmacological and electronic health records 
 EHRs). Effective analyses of this rich source of data has the potential to significantly enhance long-term individual well-being, reduce cost of 
@@ -18,7 +19,7 @@ stemming from the heterogeneity of sensor devices and associated quality of data
 regimes and responses, and complexity of the underlying analytics problems.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y14uueZcxBg?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 [Video here](https://www.youtube.com/watch?v=y14uueZcxBg&t=40s)
 
 [Slides here](https://adibzaman.github.io/files/Talk_Convergence_09_10_2019.pptx)
