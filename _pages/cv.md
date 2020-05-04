@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+Achievements
+------
+* Lead Scientist at the Regenstrief Center in Artificial Intelligence 
+* Lead Scientist at the Regenstrief Center in HIPAA Compliant Cloud Computing Infrastructure for Reproducibility with Health Data
+* PI for Multiple large studies with Clinical Data
+* Lead co-ordinator for large groups of researchers on thematic areas of causal inference, health disparity and compute framework. 
+
 Education
 ------
 * Ph.D. in  Computational Sciences, Marquette University, 2015 
@@ -28,6 +35,8 @@ Work experience
 
 In the News
 ------
+<a href="https://www.purdue.edu/research/dimensions/discovery-park-data-scientistst-helps-to-close-data-analysis-loop/">RCHE Research Scientist Adibuzzaman Receives “Above and Beyond” Award</a>
+
 * [RCHE Research Scientist Adibuzzaman Receives “Above and Beyond” Award](https://www.purdue.edu/research/dimensions/discovery-park-data-scientistst-helps-to-close-data-analysis-loop/)
 * [Discovery Park Scientist Helps to Close Data Analysis Loop](https://www.purdue.edu/discoverypark//news/index.php?view=3046)
 
