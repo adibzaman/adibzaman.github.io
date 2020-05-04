@@ -35,8 +35,6 @@ Work experience
 
 In the News
 ------
-<a href="https://www.purdue.edu/research/dimensions/discovery-park-data-scientistst-helps-to-close-data-analysis-loop/">RCHE Research Scientist Adibuzzaman Receives “Above and Beyond” Award</a>
-
 * [RCHE Research Scientist Adibuzzaman Receives “Above and Beyond” Award](https://www.purdue.edu/research/dimensions/discovery-park-data-scientistst-helps-to-close-data-analysis-loop/)
 * [Discovery Park Scientist Helps to Close Data Analysis Loop](https://www.purdue.edu/discoverypark//news/index.php?view=3046)
 
