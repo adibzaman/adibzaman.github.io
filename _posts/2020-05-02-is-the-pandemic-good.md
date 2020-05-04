@@ -1,5 +1,5 @@
 ---
-title: 'Towards Autonomous Health'
+title: 'Is the Pandemic a Good Thing?'
 date: 2020-01-26
 permalink: /posts/2020/05/Is_The_Pandemic_Good/
 tags:
