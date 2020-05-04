@@ -2,7 +2,7 @@
 title: "How We Think: The Pivot to COVID-19 Research"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-09-10-Convergence
+permalink: /talks/2020-04-30-Honors-College
 venue: "Purdue Honors College Facebook Live Panel Discussion"
 date: 2020-04-30
 location: " West Lafayette, Indiana"

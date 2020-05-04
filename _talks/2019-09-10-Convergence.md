@@ -17,6 +17,8 @@ effects and interactions, and to enable a broad class of new data-driven studies
 stemming from the heterogeneity of sensor devices and associated quality of data, diversity of populations and underlying pathologies, disparate drug 
 regimes and responses, and complexity of the underlying analytics problems.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y14uueZcxBg?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Video here](https://www.youtube.com/watch?v=y14uueZcxBg&t=40s)
 
 [Slides here](https://adibzaman.github.io/files/Talk_Convergence_09_10_2019.pptx)
