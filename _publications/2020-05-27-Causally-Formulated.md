@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-27-Causally-Formulated
 excerpt: ''
 date: 2020-05-27
-venue: 'Machine Learning for Healthcare, 2020'
+venue: 'Machine Learning for Healthcare, 2020 (pre-print)'
 paperurl: 'https://arxiv.org/abs/2006.12573'
 
 ---
