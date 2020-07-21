@@ -1,5 +1,5 @@
 ---
-title: "Innovation + Commercialization = Impact"
+title: "Innovation, Commercialization and Impact"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-07-17-Purdue-Foundry
