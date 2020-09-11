@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2020-05-30-Collaborative-Cloud
 excerpt: ''
 date: 2020-05-30
-venue: 'In preparation'
+venue: 'The 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB), 2020 (pre-print)'
+paperurl: 'https://arxiv.org/abs/2007.10498'
 
 ---
 
