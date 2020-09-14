@@ -22,8 +22,9 @@ Education
 
 Work experience
 ------
-* 2018--present: Research Scientist, Purdue University, West Lafayette, IN, USA
-* 2015--2017: Assistant Research Scientist, Purdue University, West Lafayette, IN, USA
+* 2020--present: Assistant Director, Data and Computing, Regenstrief Center for Healthcare Engineering, Purdue University, West Lafayette, IN, USA
+* 2018--2020: Research Scientist, Regenstrief Center for Healthcare Engineering, Purdue University, West Lafayette, IN, USA
+* 2015--2017: Assistant Research Scientist, Regenstrief Center for Healthcare Engineering, Purdue University, West Lafayette, IN, USA
 * 2013--2014: Oak Ridge Institute of Science and Engineering Fellow, US Food and Drug Administration (US FDA) , White Oak, MD, USA 
 * 2010--2015: Teaching Assistant, Marquette University, Milwaukee, WI, USA
 * 2012: Research Assistant, International Breast Cancer Research Foundation and Marquette University, Milwaukee, WI, USA
