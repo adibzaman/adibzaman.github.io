@@ -34,3 +34,17 @@ Above and Beyond Award from Executive Vice President of Research and Partnership
 <br clear="all">	
 
 At the Machine Learning in Healthcare Conference (MLHC) in San Francisco. 
+
+
+------
+
+<img src="\images\ICIWG_AMIA_2017.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" 
+	 width="500" height="250" 
+	 title = "AMIA 2017 ICIWG Talk. "/>
+<br clear="all">	
+
+AMIA 2017 ICIWG Talk. 
+
+------
